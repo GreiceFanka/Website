@@ -1,0 +1,93 @@
+#menu ul li a {
+    color:#FFFAF0;
+    font-family:'Roboto Slab', serif;
+    font-size:1.3em;
+}
+#menu ul li a:hover {
+    background-color:#333333;
+}
+
+#home{
+    background-image: url("../_img/foto02.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    background-attachment:fixed;
+    width:100%;
+}
+h1{
+    font-size:4em;
+    padding:1%;
+    color:#FFFAF0;
+    font-family:'Dancing Script', cursive;
+    height:20%;
+}
+#home img{
+    width:20%;
+    margin-top:17%;
+    margin-left:40%;
+}
+h2{
+ margin-top:15%;
+ font-family:'Roboto Slab', serif;
+}
+
+.icone{
+    width:30%;
+    margin-top:10%;
+    margin-left:35%;
+    margin-bottom:10%;
+    
+}
+#rose{
+    background-image: url("../_img/foto03.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    background-attachment:fixed;
+    width:100%;
+    height:60%;
+}
+#aboutme{
+    width:100%;
+}
+#aboutme p{
+  padding:3%;
+  font-family:'Roboto Slab', serif;
+  font-size:1.2em;
+  margin-top:2%;
+  margin-bottom:12%;
+}
+#contact{
+    background-color:#0d0d0d;
+    width:100%;
+}
+h3{
+margin-left:2%;
+font-size:2.5em;
+font-family:'Dancing Script', cursive;
+color:#FFFAF0;
+width:20%;}
+h4{
+ padding-top:2%;
+ margin-left:2%;
+ font-family:'Roboto Slab', serif;
+ color:#FFFAF0;
+ width:25%;
+
+}
+#contact img{
+    display:block;
+    float:right;
+    max-width:5%;
+    margin-top:-5%;
+    margin-right:5%;
+    margin-bottom:3%;
+}
+#contact img:hover{
+    -webkit-transform: scale(1.2);
+        -ms-transform: scale(1.2);
+        transform: scale(1.2);
+}
+
+
